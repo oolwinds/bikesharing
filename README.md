@@ -25,7 +25,7 @@ A comprehensive dashboard was created in Tableau to provide a visual interpretat
 
 **Temperature vs Wind speed heat map**: This visualization was placed beneath the moving average chart. It provided an intuitive representation of the relationship between weather conditions (specifically, temperature and wind speed) and bike usage.
 
-Interactive elements: The dashboard incorporated user interactivity via sets and filters. The 'Moving Average Period' set allowed users to focus on specific date ranges. This set was created by identifying the minimum and maximum months within the data and verifying if the chosen date fell within this range. Another feature was the timeline filter, which enabled users to filter data based on the 'Moving Average Period'.
+**Interactive elements**: The dashboard incorporated user interactivity via sets and filters. The 'Moving Average Period' set allowed users to focus on specific date ranges. This set was created by identifying the minimum and maximum months within the data and verifying if the chosen date fell within this range. Another feature was the timeline filter, which enabled users to filter data based on the 'Moving Average Period'.
 
 **Tooltip charts**: Additional insights were provided through tooltip charts that became visible when hovering over the moving average chart or the heat map. These tooltip charts depicted the number of bike rides split by weather condition and hour of the day.
 
