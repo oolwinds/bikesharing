@@ -8,6 +8,7 @@ https://github.com/oolwinds/bikesharing/assets/130780065/c6bffbb4-fec7-40c6-bf58
 
 ## Data Acquisition
 Dataset : https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
+
 The dataset was procured from Kaggle. The dataset was pulled through Kaggle API then downloaded and unzipped using python.
 
 ## Data Manipulation
